@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="10 Minute News: a calm, concise daily news briefing.">
+  <title>10 Minute News | Daily briefing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="index.html" aria-label="10 Minute News home">
+        <span class="brand-mark">10</span>
+        <span>MINUTE<br><strong>NEWS</strong></span>
+      </a>
+      <nav class="main-nav" aria-label="Primary navigation">
+        <a class="active" href="index.html">Today</a>
+        <a href="archive.html">Archive</a>
+        <a href="#latest">Latest</a>
+        <a href="#topics">Topics</a>
+        <a href="#about">About</a>
+      </nav>
+      <button class="icon-button menu-toggle" type="button" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu">☰</button>
+      <div class="header-date"><span class="live-dot"></span> <span id="current-date">Loading date · IST</span></div>
+    </div>
+    <nav class="mobile-nav shell" id="mobile-nav" aria-label="Mobile navigation">
+      <a href="index.html">Today</a><a href="archive.html">Archive</a><a href="#latest">Latest</a><a href="#topics">Topics</a><a href="#about">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero shell">
+      <div class="hero-copy">
+        <p class="eyebrow">THE DAILY BRIEFING <span>·</span> ISSUE 284</p>
+        <h1>Big stories,<br><em>beautifully distilled.</em></h1>
+        <p class="hero-intro">The essential headlines and the context behind them, made for the ten minutes between where you are and where you’re going.</p>
+        <a class="text-link" href="#latest">Read today’s edition <span>↓</span></a>
+      </div>
+      <div class="hero-note">
+        <span class="note-label">Editor’s note</span>
+        <p>“A useful news habit should leave you clearer, not noisier.”</p>
+        <span class="note-byline">— The 10 Minute desk</span>
+      </div>
+    </section>
+
+    <section class="ticker" aria-label="News ticker">
+      <div class="ticker-track shell"><span class="ticker-label">QUICK READ</span><span>Markets steady as central banks signal patience</span><span>•</span><span>New satellite images map the changing Arctic</span><span>•</span><span>What the next decade of clean energy looks like</span></div>
+    </section>
+
+    <section class="content-grid shell" id="latest">
+      <div class="section-heading">
+        <div><p class="eyebrow">FRIDAY EDITION</p><h2>Today’s essential reads</h2></div>
+        <div class="section-tools"><label class="search-box"><span>⌕</span><input id="search-input" type="search" placeholder="Search this edition" aria-label="Search this edition"></label></div>
+      </div>
+      <!-- ARTICLES_START -->
+      <div class="story-layout">
+        <article class="lead-story story-card" data-category="business / markets">
+          <div class="story-art art-ocean"><span class="art-caption">AI Generated</span><span class="art-stamp">01</span></div>
+          <div class="story-content"><p class="kicker">BUSINESS / MARKETS <span>2 min read</span></p><h3><a href="articles/2026-09-25-marketdownfall.html">Indian Markets Hold Steady as Oil Prices and Global Yields Weigh, IT Sector Leads Pull‑back</a></h3><p class="dek">After the sharpest 10‑week drop on Thursday, India’s Nifty\u202f50 and Sensex edged higher on Friday, buoyed by small‑cap gains while the IT sector slipped on high crude prices and rising U.S. Treasury yields. The market outlook remains cautious amid inflation fears, elevated oil, and geopolitical uncertainty.</p><p class="story-meta">By Gagan <span>·</span> 7:59 PM</p></div>
+        </article>
+        <div class="secondary-stories">
+          <article class="story-card compact" data-category="weather / natural hazards"><div class="story-number">02</div><div><p class="kicker">WEATHER / NATURAL HAZARDS <span>2 min read</span></p><h3><a href="articles/2026-09-25-uttarakhand-floods.html">Red &amp; Orange Weather Alerts Sweep Uttarakhand – Heavy Rains, Landslides, and Road Blockages Until Sept 28, 2026</a></h3><p class="story-meta">By Gagan <span>·</span> 10:33 PM</p></div></article>
+          <article class="story-card compact" data-category="science &amp; technology"><div class="story-number">03</div><div><p class="kicker">SCIENCE &amp; TECHNOLOGY <span>3 min read</span></p><h3><a href="articles/2026-09-25-biodegradable-plastic.html">India Launches Bio‑Based PLA Biodegradable Plastic Pilot under BioE3, Backed by ₹75 Cr Grant</a></h3><p class="story-meta">By Gagan <span>·</span> 10:54 PM</p></div></article>
+          <article class="story-card compact" data-category="energy &amp; business"><div class="story-number">04</div><div><p class="kicker">ENERGY &amp; BUSINESS <span>2 min read</span></p><h3><a href="articles/2026-09-25-ongc-natural-gas-discovery.html">ONGC’s Deep‑water Well Off Odisha Begins Flowing Natural Gas</a></h3><p class="story-meta">By Gagan <span>·</span> 11:22 PM</p></div></article>
+        </div>
+      </div>
+      <!-- ARTICLES_END -->
+      <p class="empty-state" id="empty-state" hidden>No stories match that search yet.</p>
+    </section>
+
+    <section class="topics-band" id="topics"><div class="shell topics-inner"><div><p class="eyebrow">EXPLORE BY TOPIC</p><h2>Follow your curiosity.</h2></div><div class="topic-list"><a href="#latest">World <span>→</span></a><a href="#latest">Technology <span>→</span></a><a href="#latest">Climate <span>→</span></a><a href="#latest">Culture <span>→</span></a></div></div></section>
+  </main>
+
+  <footer class="site-footer" id="about"><div class="shell footer-inner"><div><a class="brand footer-brand" href="index.html"><span class="brand-mark">10</span><span>MINUTE<br><strong>NEWS</strong></span></a><p class="footer-copy">A calmer way to stay informed.<br>Made for the first ten minutes of your day.</p></div><div class="footer-links"><a href="archive.html">Archive</a><a href="mailto:hello@example.com">Contact</a><a href="#about">About the project</a><a href="#about">RSS feed</a></div><p class="copyright">© 2026 10 Minute News</p></div></footer>
+</body>
+</html>
