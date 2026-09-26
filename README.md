@@ -11,6 +11,8 @@ A small, database-free news portal built with plain HTML, CSS, and JavaScript. I
 - `styles.css` is shared by the homepage and article pages.
 - `app.js` adds optional menu and homepage search behavior.
 - `article_editor.py` provides a local Tkinter GUI for creating article HTML from pasted content.
+- `json_article_editor.py` provides a Tkinter GUI for extracting article fields from pasted JSON.
+- `json_to_html.py` creates a standalone article page from a JSON object.
 - `build_index.py` rebuilds the homepage story cards from `articles.csv`.
 - `generate_archive.py` rebuilds the archive from article filenames and metadata.
 
@@ -41,6 +43,22 @@ Complete the metadata fields and paste the article body. Separate paragraphs wit
 - `Quote: text` for a block quote
 
 The editor escapes pasted HTML, creates a unique dated file in `articles/`, and appends an active row to `articles.csv`. After saving, run `python build_index.py` and `python generate_archive.py`.
+
+## Create an article from pasted JSON in the GUI
+
+Run:
+
+```powershell
+python json_article_editor.py
+```
+
+Paste the JSON object and select **Extract Fields** to fill the headline, category, short summary, read time, detail summary, image prompt, and slug. Review or edit the populated fields, then select **Submit Article**. The GUI creates a dated article page and appends it to `articles.csv`; run `python build_index.py` and `python generate_archive.py` to refresh the site listings.
+
+## Create an article from JSON
+
+Run `python json_to_html.py article.json` to create a dated HTML page in `articles/`. The JSON object must include `Title`, `Category`, `Short Summary`, `Read Time`, `Detail Summary`, and `Image Generation Prompt`. The detail summary supports paragraphs and numbered or bulleted lists. The image-generation prompt is retained as HTML metadata; pass `--image path-or-url` to include an image in the page.
+
+You can also pipe JSON through standard input with `python json_to_html.py - --output articles/story.html`. Use `--output -` to write the HTML to standard output. This utility writes only the HTML page; add its metadata to `articles.csv` and run the index and archive generators if it should appear in those listings.
 
 Relative paths are intentional: the same files work locally, on S3 static hosting, or behind CloudFront without a build step.
 
