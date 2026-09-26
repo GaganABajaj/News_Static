@@ -1,3 +1,17 @@
+["""
+
+Iran offers to reopen Strait of Hormuz in seven days if US lifts naval blockade
+Akashvani News
+Iran has offered to reopen the Strait of Hormuz and resume talks on its nuclear programme in seven days if the United States lifts its naval blockade of Iranian ports, waives sanctions on Iranian oil sales and observes a ceasefire that would include Lebanon.
+
+Iranian Foreign Minister Abbas Araghchi detailed the proposal to reporters outside the UN Security Council, saying it would also restart stalled talks with the US on Iran’s nuclear programme. The seven-day timeline will start as soon as the United States accepts this plan, he said.
+
+Araghchi said initial steps would take about four to five days to complete, and the strait would be open on the sixth day. On day seven, talks with the US would begin for the final deal on mutually agreed subjects, he said, referring to the nuclear programme.
+
+The White House said that US officials are having positive and constructive conversations with mediators on the Iran war. There was no immediate comment on the proposal from Gulf Arab nations, although Saudi Arabia was sceptical of the latest push for a deal.
+
+Iran’s disruption of the strait — through which a fifth of the world’s traded oil and gas transited before the war — has emerged as its main point of leverage. The effects have been felt far beyond the Middle East and posed political problems for President Donald Trump and his Republican Party ahead of November’s midterm congressional elections.
+
 Iran pitches seven-day roadmap to end conflict with US
 Tehran seeks rapid implementation collapsed ceasefire deal, offering to open Hormuz if regional conflicts halted.
 
@@ -12,13 +26,7 @@ Iran has proposed a seven-day roadmap aimed at ending the war with the United St
 
 Foreign Minister Abbas Araghchi outlined the plan to reporters in New York on Thursday, according to US media. The proposal seeks to implement the conditions in the Memorandum of Understanding agreed by Washington and Tehran in June, including a halt to hostilities and the reopening of the Strait of Hormuz.
 
-Recommended Stories
-list of 4 items
-list 1 of 4Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?
-list 2 of 4Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis
-list 3 of 4Iranian-American group sues Trump over war
-list 4 of 4Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech
-end of list
+
 Reportedly passed to Washington via mediators earlier this week, Iran’s proposal asks the US to meet specific conditions within seven days to restart ceasefire talks and end the blockade choking the strategically important strait.
 
 The restrictions on maritime traffic in Hormuz have become a key issue in the conflict due to the impact on oil and gas exports and the global economy.
@@ -144,13 +152,143 @@ Yet alongside their warnings over Hormuz, Gulf leaders have pressed hard for de-
 That uncertainty is also shaping Tehran’s calculations. Danny Citrinowicz, a regional analyst and former Israeli ​military intelligence officer, said the New York talks had not altered the basic positions of either side and that Iran was unlikely to retreat as long as it believed Trump wanted to avoid a wider escalation before the midterms.
 “The blockade is hurting them, but rather than softening their position, it is likely to drive them to escalate because they believe that if they soften ​their position, they are dead," said Alan Eyre, a former US negotiator on Iran.
 A Western official familiar with the talks added: "It is all about opening the Strait of Hormuz. We're all under pressure domestically and the Iranians know that."
-Updates with US official's comment in paragraphs 8-10
+""",
+"""
+Plea In Supreme Court Seeks Prosecution Of CEC Gyanesh Kumar, SIT Inquiry Into SIR Voter Deletions
+The petitioner also seeks the reversal of the decisions taken by the CEC allegedly without the concurrence of two Election Commissioners.
+By - LIVELAW NEWS NETWORKUpdate: 2026-09-25 07:21 GMT
+Plea In Supreme Court Seeks Prosecution Of CEC Gyanesh Kumar, SIT Inquiry Into SIR Voter Deletions
+facebook icontwitter iconlinkedin icontubmlr iconpinterest icon
+whatsapp icon
+Click the Play button to listen to article
+A petition has been filed before the Supreme Court seeking criminal prosecution of Chief Election Commissioner Gyanesh Kumar over alleged violations of statutory duties in connection with the Special Intensive Revision (SIR) of electoral rolls.
 
+Filed by advocate Shailendra Mani Tripathi under Article 32 of the Constitution, the petition also seeks a declaration that decisions, guidelines and software modifications allegedly undertaken by Gyanesh Kumar without the concurrence of the other two Election Commissioners are unconstitutional and void.  
 
+The petition has been filed days after The Indian Express reported that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi had recorded objections on at least 14 occasions over decisions and orders concerning SIR, including changes to Form 6 and the management of electoral-roll data. The report said the objections related to decisions allegedly taken without their knowledge or against their recommendations.  
 
+Plea seeks prosecution of Gyanesh Kumar under RP Act
 
+The petitioner has specifically sought directions to the competent authority to register complaints and initiate prosecution under Section 32 of the Representation of the People Act, 1950 against Gyanesh Kumar, Senior Deputy Election Commissioner Maneesh Garg, Director General (IT) Seema Khanna and other officials found responsible for an alleged breach of official duty.  
 
-----------
+The petition relies on Section 32, which provides punishment for specified breaches of official duty in connection with the preparation, revision or correction of electoral rolls.  
+
+The petitioner alleges that the conduct complained of includes the alleged unauthorised modification of Form 6, centralisation of electoral-roll databases, failure to restore eligible voters through the ECINet system and the filing of 16.10 lakh appeals in West Bengal challenging the inclusion of voters purportedly in the name of the ECI.
+
+Seeks quashing of decisions allegedly taken without majority concurrence
+
+The plea asks the Supreme Court to declare all decisions, guidelines, directives and software modifications initiated, approved or implemented under Gyanesh Kumar without full Commission concurrence, or contrary to the majority opinion of the Election Commissioners, as unconstitutional, ultra vires and void ab initio.  
+
+The petitioner relies on Section 18 of the Chief Election Commissioner and Other Election Commissioners Act, 2023, which provides that where the CEC and other Election Commissioners differ, the matter is to be decided according to the majority opinion.  
+
+According to the petition, Election Commissioners Joshi and Sandhu had objected to the alteration of Form 6 in May 2026, with Joshi recording that the statutory form could not be amended without a corresponding amendment to the Registration of Electors Rules, 1960. Sandhu subsequently concurred.   
+
+The petition alleges that despite this, the Form 6 on the ECINet portal was subsequently modified to require information concerning an applicant's or their relatives' presence in the previous SIR roll. It relies on Sandhu's subsequent recording that the alteration was "unauthorised and illegal". 
+
+SIT sought to investigate deletion of 13 crore names
+
+The petitioner has sought constitution of an independent Judicial Inquiry Commission/Special Investigation Team headed by a retired Supreme Court judge, assisted by cybersecurity and IT experts.
+
+The proposed probe is sought to conduct a forensic audit of the ECINet and ERONet databases and investigate the circumstances in which, according to the petition, 13 crore names were deleted across 30 States and Union Territories during the SIR exercise.  
+
+The petitioner also proposes that the SIT identify individual culpability for unauthorisedly filing 16.10 lakh appeals in West Bengal challenging the inclusion of voters.
+
+Plea seeks restoration of original Form 6
+
+Apart from challenging the alleged decisions of Gyanesh Kumar, the petitioner seeks quashing of the modifications made to Form 6 on the ECINet/ERONet portal and a direction for restoration of the statutory Form 6 prescribed under the Registration of Electors Rules, 1960.  
+
+The plea also seeks quashing of the alleged 16.10 lakh appeals filed before West Bengal Appellate Tribunals in the name of the ECI against the inclusion of electors restored by judicial officers.  
+
+It further seeks preservation of the server logs, databases, communications and metadata relating to ECINet and ERONet from October 1, 2025 onwards, pending investigation.  
+
+The petition names the Union of India, Election Commission of India, CEC Gyanesh Kumar, Cabinet Secretary, Maneesh Garg and Seema Khanna as respondents.
+
+The petition has been filed through AoR Chand Qureshi.
+
+Case : Shailendra Mani Tripathi v Union of India | Diary No.59734/2026
+
+""",
+"""
+Chinese President concludes three
+Akashvani News
+Chinese President Xi Jinping wrapped up a three-day state visit to Washington with progress on trade, discussions on artificial intelligence and foreign policy, but with no major new agreements between the world’s two largest economies.
+
+President Donald Trump said they had a really great meeting, great for everybody, great for the farmers, great for everybody. Chinese President Xi Jinping said he will meet President Donald Trump two more times before the end of the year, doubling the number of face-to-face discussions between the leaders of the world’s two largest economies in 2026.
+
+The most concrete outcome came on trade, where the United States and China agreed to extend their current trade truce for another two months. The extension keeps the truce in place into January while negotiations continue. U.S. tariffs on Chinese goods had climbed as high as 145%, while China tightened restrictions on exports of rare-earth materials critical to electronics, advanced manufacturing and other high-tech products.
+
+Artificial intelligence was another major topic during the visit, and no major new AI agreement was announced. Xi said the United States and China share a responsibility to work together on the technology and ensure it remains under human control. The United States has also proposed creating a mechanism through which the two countries could alert one another about dangerous AI incidents with national security implications.
+
+Foreign policy discussions included the ongoing war with Iran. Trump said he and Xi discussed the conflict, but no breakthrough was announced. Taiwan also remains one of the most sensitive sources of tension between Washington and Beijing. Despite those unresolved issues, Trump repeatedly emphasised his personal relationship with Xi, describing it as a truly great friendship.
+
+Some trade analysts say few tangible accomplishments seemed to have come from the meeting. Little was announced outside of the promise of more meetings between Washington and Beijing. The three-day state visit by Xi has been criticised by some in the U.S. for being heavy on pomp and light on substance.
+
+"""
+,
+"""
+
+AFSPA extended in parts of Manipur, Nagaland and Arunachal
+The Indian Express
+
+The AFSPA, which gives special powers to the Armed Forces, will remain in effect for six months from October 1, unless withdrawn earlier, the notification said.
+AFSPA extended in parts of Manipur, AFSPA extended in parts of Nagaland, AFSPA extended in parts of Arunachal, Armed Forces (Special Powers) Act, AFSPA, Indian express news, current affairs
+In Manipur, the MHA has extended the disturbed area declaration across the state, excluding areas under the jurisdiction of 13 police stations in five districts.
+The Centre has extended the Armed Forces (Special Powers) Act, 1958, in specified areas of Nagaland, Manipur and Arunachal for another six months, according to Gazette notifications issued on Friday. This follows a review of the law and order situation there.
+
+The AFSPA, which gives special powers to the Armed Forces, will remain in effect for six months from October 1, unless withdrawn earlier, the notification said.
+
+In Manipur, the MHA has extended the disturbed area declaration across the state, excluding areas under the jurisdiction of 13 police stations in five districts.
+
+In Nagaland, the AFSPA has been extended in nine districts: Dimapur, Niuland, Chumoukedima, Mon, Kiphire, Noklak, Phek, Peren and Meluri.
+"""
+,
+"""
+
+Rogue OpenAI agents accessed US government websites
+Politico
+
+It’s the latest instance of “misaligned” activity confirmed by the company as concerns about AI risks grow.
+
+OpenAI’s artificial intelligence models accessed the websites of the Commerce Department and the Securities and Exchange Commission and unsuccessfully attempted to infiltrate the Education Department’s site this summer without the company’s knowledge.
+
+The company confirmed the Commerce and SEC incidents late Friday, saying its technology did not manage to access information that was not already public or change government data and systems. The New York Times was first to report the incidents.
+
+The news is the latest in a series of revelations that models created by OpenAI and other top labs have escaped testing and taken actions without the companies’ knowledge amid concerns about the risks of the technology. It comes two days after Australia’s government revealed that OpenAI agents also accessed public and non-public sections of the country’s Medicare website in June, incidents that weren’t detected for two months.
+
+The incident involving the Commerce Department concerned data from its Census Bureau website, which OpenAI’s models accessed using credentials they found in online code repositories.
+
+In the SEC case, OpenAI’s models posted some of the information it retrieved from agency websites SEC.gov and Investor.gov onto a different website. Kurt Hopfenspirger, a spokesperson for the SEC, said in a statement Friday night only that “no non-public information was accessed” by the agencies, declining to comment further on the incident.
+
+“The Department of Education’s system operations reviews have found no evidence of any impact to our website or databases,” the agency said in a statement. Spokespeople for the Commerce Department did not immediately respond to a request for comment on the incident.
+
+A spokesperson for the AI research nonprofit Transluce confirmed that it found agents appearing to originate from OpenAI had tried to hack a Department of Education website for the department’s civil rights office, but did not succeed.
+
+One senior federal IT official said the government still did not have a clear understanding of what happened across the three agencies.
+
+“We still don’t know what public data was accessed and how it was accessed, because OpenAI has not shared specific technical details with us yet,” said the official, who was granted anonymity because they were not authorized to speak publicly about it.
+
+OpenAI discovered the Commerce and SEC incidents as part of its ongoing review of incidents where its technology has acted in unintended or “misaligned” ways.
+
+A company spokesperson said Friday that it has been notifying organizations that were impacted by the rogue behavior and expects to make more disclosures as the review continues. OpenAI has estimated the review process will take months.
+
+“Most of the activity we’ve reviewed so far involved routine research tasks, such as accessing public web content to answer questions,” the spokesperson said in a statement. “Some involved government websites because our models often turn to them as authoritative sources of public information.”
+
+OpenAI also revealed Friday that its agents may have hampered websites for “dozens” of other organizations, which the company notified.
+
+The newly disclosed breaches of U.S. and Australian government websites this week marked an escalation of incidents in which advanced AI models have targeted and breached public websites. OpenAI disclosed over the summer that its agents went rogue during testing, roamed the internet for four days and then carried out an autonomous cyberattack on developer platform Hugging Face.
+
+Beyond the Hugging Face incident, Anthropic, Google and Meta in the past two months have disclosed incidents of their models carrying out autonomous hacks against other organizations.
+
+These incidents led the United Nations this week to host a Security Council meeting on AI security risks, at which OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei both testified. They each pushed for global cooperation on AI safety.
+
+Altman posted on X Friday before the report that the company has “not been as fast as we would have liked” in sharing incidents, and the Hugging Face hack remains the most severe case it has seen.
+
+John Sakellariadis, Sam Sutton and Owen Dahlkamp contributed reporting.
+
+Gina Hinojosa wants to make Texas a test case for Democrats’ future
+"""
+
+]
 
 
 
